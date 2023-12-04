@@ -10,8 +10,7 @@ JavaScript | Node.js | Python | PHP | MYSQL
 - Twitter - [@lagent_titi]
 
 ## 🎉 Réalisations
-- Premier projet
-- Deuxième projet
+- cs2 team commitments [Bientot fini]
 
 ## ⚡ Faits intéressants
 - J’adore le rap, mes rappeurs préférés sont Zamdane, Freeze Corleone et Luv Resval.
