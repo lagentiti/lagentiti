@@ -14,5 +14,5 @@ JavaScript | Node.js | Python | PHP | MYSQL
 - Deuxième projet
 
 ## ⚡ Faits intéressants
-- j'adore le rap et mais reppeurs préférée est Zamdane, Freeze corleone et Luv resval
+- J’adore le rap et mes rappeurs préférés sont Zamdane, Freeze Corleone et Luv Resval.
 - 
