@@ -15,3 +15,5 @@ JavaScript | Node.js | Python | PHP | MYSQL
 ## ⚡ Faits intéressants
 - J’adore le rap, mes rappeurs préférés sont Zamdane, Freeze Corleone et Luv Resval.
 - 
+
+<!-- fichier crée par BingAI et ChatGPT-4 -->
