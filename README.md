@@ -8,6 +8,7 @@ JavaScript | Node.js | Python | PHP | MYSQL
 
 ## 📫 Comment me joindre
 - Twitter - [@lagent_titi]
+- Discord - [lagent_titi]
 
 ## 🎉 Réalisations
 - cs2 team commitments [Bientot fini]
