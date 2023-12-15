@@ -11,7 +11,7 @@ JavaScript | Node.js | Python | MYSQL
 - Discord - [lagent_titi]
 
 ## 🎉 Réalisations
-- 
+- [Twitch-Rainbow-Color-Extension](https://github.com/lagentiti/Twitch-Rainbow-Color-Extension)
 
 ## ⚡ Faits intéressants
 - J’adore le rap, mes rappeurs préférés sont Zamdane, Freeze Corleone et Luv Resval.
