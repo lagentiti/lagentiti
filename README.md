@@ -8,7 +8,6 @@ JavaScript | Node.js | Python | MYSQL
 
 ## 📫 Comment me joindre
 - Twitter - [@lagent_titi]
-- Discord - [lagent_titi]
 
 ## 🎉 Réalisations
 - [Twitch-Rainbow-Color-Extension](https://github.com/lagentiti/Twitch-Rainbow-Color-Extension)
