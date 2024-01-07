@@ -4,7 +4,7 @@
 Je suis au secondaire et je suis passionnée par la programmation et les cryptomonnaies.
 
 ## 🛠️ Compétences
-JavaScript | Node.js | Python | MYSQL
+JavaScript | Node.js | MYSQL
 
 ## 📫 Comment me joindre
 - Twitter - [@lagent_titi]
