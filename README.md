@@ -5,7 +5,7 @@ Je suis au secondaire et je suis passionnée par la programmation et les cryptom
 
 ## 🛠️ Compétences
 Html | Css | JavaScript | Node.js | MYSQL
-je suis entrain d'apprendre a utiliser mongoDB et bientot TypeScript et Lua
+#### je suis entrain d'apprendre a utiliser mongoDB et bientot TypeScript et Lua
 
 ## 📫 Comment me joindre
 - Twitter - [@lagent_titi]
