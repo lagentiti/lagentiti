@@ -4,7 +4,7 @@
 Je suis au secondaire et je suis passionnée par la programmation et les cryptomonnaies.
 
 ## 🛠️ Compétences
-JavaScript | Node.js | MYSQL
+Html | Css | JavaScript | Node.js | MYSQL
 
 ## 📫 Comment me joindre
 - Twitter - [@lagent_titi]
@@ -13,6 +13,6 @@ JavaScript | Node.js | MYSQL
 - Les réalisations sont sur mon [site](https://lagentiti.github.io/projectList.html)
 
 ## ⚡ Faits intéressants
-- J’adore le rap, mes rappeurs préférés sont Zamdane, Freeze Corleone et Luv Resval.
+- J’adore le rap, mes rappeurs préférés sont Zamdane, Freeze Corleone, Luv Resval et Vald.
 
 <!-- fichier crée par BingAI et ChatGPT-4 -->
