@@ -38,7 +38,6 @@ Salut ! Je suis **lagentiti**, un passionné de développement qui aime créer, 
 - [Projet] : Ajout de [description]. ([Lien](#)) -->
 
 ## 📫 Me contacter
-[![X](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/lagent_titi)
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/ajbu9RxQnB)
 
 ⭐ **Merci de visiter mon profil !** Laissez une étoile sur mes projets si vous les aimez ! 😄
