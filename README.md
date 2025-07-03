@@ -5,7 +5,7 @@ Salut ! Je suis **lagentiti**, un passionné de développement qui aime créer, 
 ## 🌟 À propos de moi
 - 🌍 Basé au Quebec, né en France 🇫🇷
 - 💻 Développeur Web
-- 🔍 Passionné par l'IA, les applications web, la BlockChain
+- 🔍 Passionné par l'IA, les applications web, la BlockChain et les montres
 - 🎯 Objectif : Coder
 
 ## 🛠️ Technologies & Outils
